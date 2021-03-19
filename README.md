@@ -1,2 +1,2 @@
-# MEEN4010_Team13_Data
+# Mechanical Inerter Test Data
 Just a place to collect data for our capstone project
